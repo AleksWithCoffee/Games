@@ -9,5 +9,6 @@ public class NewClass {
 			System.out.println("i mniejsze od j");
 			i++;
 		}
+		System.out.println("the end of the work");
 	}
 }
